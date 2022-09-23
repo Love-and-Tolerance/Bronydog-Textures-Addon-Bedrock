@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com",
+    "min_engine_version": [
+      1,
+      16,
+      20
+    ],
+    "name": "Love & Tolerance (Bronydog)",
+    "uuid": "aac6965f-6e13-4900-8d4b-9681d2e27d76",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com",
+      "type": "resources",
+      "uuid": "335a4b25-ad64-4b71-b4f7-49559b5a17aa",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "num_mip_levels": 4,
+  "padding": 8,
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "deepslate_emerald_ore": {
+      "textures": "textures/blocks/deepslate_emerald_ore"
+    },
+    "emerald_ore": {
+      "textures": "path":"textures/blocks/emerald_ore"
+    }
+  }
+}
