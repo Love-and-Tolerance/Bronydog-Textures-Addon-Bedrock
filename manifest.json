@@ -10,9 +10,9 @@
     "name": "Love & Tolerance (Bronydog)",
     "uuid": "aac6965f-6e13-4900-8d4b-9681d2e27d76",
     "version": [
+      1,
       0,
-      0,
-      1
+      0
     ]
   },
   "modules": [
@@ -21,9 +21,9 @@
       "type": "resources",
       "uuid": "335a4b25-ad64-4b71-b4f7-49559b5a17aa",
       "version": [
+        1,
         0,
-        0,
-        1
+        0
       ]
     }
   ]
